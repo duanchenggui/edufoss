@@ -8,10 +8,6 @@
     "hash": "f47047dde1ecbc0308e9b63da31719e0ee80c44aeee66eb1ba6201737fee8ed6",
     "bin": "pdf_editor_setup.exe",
     "shortcuts": [["pdf_editor_setup.exe", "IcecreamPDF"]]
-    // "checkver": {
-    //     "github": "https://github.com/CopyTranslator/CopyTranslator"
-    // },
-    // "autoupdate": {
-    //     "url": "https://github.com/CopyTranslator/CopyTranslator/releases/download/v$version/copytranslator-$version-win.zip"
+  
     }
 }
