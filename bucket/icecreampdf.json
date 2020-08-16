@@ -6,9 +6,9 @@
     "version": "2.31",
     "url": "https://icecreamapps.com/download/pdf_editor_setup.exe#/dl.7z",
     "hash": "f47047dde1ecbc0308e9b63da31719e0ee80c44aeee66eb1ba6201737fee8ed6",
-    "bin": "pdf_editor_setup.exe",
+    "bin": "icepdfeditor.exe",
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
-    "shortcuts": [["pdf_editor_setup.exe", "IcecreamPDF"]]  
+    "shortcuts": [["icepdfeditor.exe", "IcecreamPDF"]]  
 }
 
 
